@@ -3,6 +3,10 @@
 
 This is a simple calculator project in Go, demonstrating the use of Go modules and dependency management.
 
+## Dependencies
+This project relies on [mathutil](https://github.com/shaileshyadav7771/mathutil) for core utility functions.
+
+
 ## Project Structure
 
 ```plaintext
